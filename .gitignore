@@ -1,0 +1,5 @@
+# ignore all files in any directory .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# ignore all .sav files
+*.sav
